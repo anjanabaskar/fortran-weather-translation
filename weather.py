@@ -49,3 +49,4 @@ class Weather:
             print(days[i])
             print(f"High: {self.f_high_array[i]} (F), Low: {self.f_low_array[i]} (F)")
             print()
+            #
